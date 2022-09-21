@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Choukriel
 - 👀 I’m interested in Data Engineering and Legacy-to-Cloud Migration Projects
-- 🌱 I’m currently enhancing my knowledge and skills in Spark and Databricks
+- 🌱 I’m currently enhancing my knowledge and skills in Google Cloud, Spark and Databricks
 - 📫 How to reach me via LinkedIn Choukri https://www.linkedin.com/in/choukri-el-ouastani/
 
 <!---
